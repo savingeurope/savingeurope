@@ -56,7 +56,7 @@
 ---
 ## ✉️ Dear Visitor
 
-**If you want to reach out to me for collaborations, please contact my email at husicahmed@eyes.ink**
+**If you want to reach out to me for collaborations, please contact my email at 7eyesofluck@gmail.com**
 
 ---
 
