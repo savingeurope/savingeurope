@@ -44,12 +44,6 @@
 </p>
 
 <p align="center">
-  <a href="https://guns.lol/0x7">
-    <img src="https://img.shields.io/badge/Contact_Me_Here!-7289DA?style=for-the-badge&logo=linktree&logoColor=white" alt="View my biolink to contact me!" />
-  </a>
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=7eyesofluck&color=green" alt="Profile Views" />
 </p>
 
