@@ -24,7 +24,6 @@
 ### Commonly Used Programs! 
 <p align="center">
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio" title="Visual Studio 2022"></code>
-  <code><img height="30" src="https://avatars.githubusercontent.com/u/126759922?v=4" alt="Cursor" title="Cursor"></code>
 </p>
 
 ---
